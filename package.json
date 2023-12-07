@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "puppeteer": "^21.6.0"
+  },
+  "name": "tw_ideas",
+  "version": "1.0.0",
+  "main": "ideas.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duheng/tw_ideas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duheng/tw_ideas/issues"
+  },
+  "homepage": "https://github.com/duheng/tw_ideas#readme",
+  "description": ""
+}

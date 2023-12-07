@@ -1,0 +1,11 @@
+node_modules
+server-build
+.vscode
+dist
+*.zip
+bash.exe.stackdump
+.idea
+.DS_Store
+www.bitforex.com*
+logs
+*.DS_Store
